@@ -18,7 +18,7 @@ It's pretty simple
 2. Customize the plate to your liking and save the file as a `.png`
 3. upload the plate to an image website (I personally use [Imgur](https://imgur.com))
 4. Get the raw image file URL (URL should end with a `.png`)
-5. Paste your URL into the `config.lua`
+5. Paste your URL into the `plates.lua`
 
 Possibly Important Stuff
 =
