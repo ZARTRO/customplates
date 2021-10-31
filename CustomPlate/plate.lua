@@ -93,9 +93,9 @@ local textureDic = CreateRuntimeTxd('duiTxd') -- Create custom texture dictionar
 local object = CreateDui(imageUrl, 540, 300) -- Load image into object
 local handle = GetDuiHandle(object) -- Gets DUI handle from object
 CreateRuntimeTextureFromDuiHandle(textureDic, "duiTex", handle) -- Creates the texture "duiTex" in the "duiTxd" dictionary
-AddReplaceTexture('vehshare', 'plate01', 'duiTxd', 'duiTex') -- Applies "duiTex" from "duiTxd" to "plate01" from "vehshare"
+AddReplaceTexture('vehshare', ''yankton_plate', 'duiTxd', 'duiTex') -- Applies "duiTex" from "duiTxd" to "plate01" from "vehshare"
 
 local object = CreateDui(imageUrl1n, 540, 300) -- this URL doesn't need to be edited, its just the 2d model for the plate -- Load image into object
 local handle = GetDuiHandle(object) -- Gets DUI handle from object
 CreateRuntimeTextureFromDuiHandle(textureDic, "duiTex2", handle) -- Creates the texture "duiTex" in the "duiTxd" dictionary
-AddReplaceTexture('vehshare', 'plate01_n', 'duiTxd', 'duiTex2') -- Applies "duiTex2" from "duiTxd" to "plate01_n" from "vehshare"
+AddReplaceTexture('vehshare', ''yankton_plate_n', 'duiTxd', 'duiTex2') -- Applies "duiTex2" from "duiTxd" to "plate01_n" from "vehshare"
