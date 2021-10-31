@@ -23,12 +23,12 @@ It's pretty simple
 Plates significations
 =
 
-Plate 1 = Plate Blue on White 2
-Plate 2 = Plate Yellow on Black
-Plate 3 = Plate Yellow on Blue
-Plate 4 = Plate Blue on White 1
-Plate 5 = Plate Blue on White 3 (SA EXEMPT)
-Plate 6 = North Yankton
+  Plate 1 = Plate Blue on White 2
+  Plate 2 = Plate Yellow on Black
+  Plate 3 = Plate Yellow on Blue
+  Plate 4 = Plate Blue on White 1
+  Plate 5 = Plate Blue on White 3 (SA EXEMPT)
+  Plate 6 = North Yankton
 
 Possibly Important Stuff
 =
