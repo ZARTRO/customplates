@@ -38,22 +38,3 @@ Example
 =
 
 [Here](https://i.imgur.com/J55F9ms.png)
-
----
-Hey! Read Me For More Plates
-=
-
-So I've done some testing and it appears that if you'd like to replace more plates, you'll need to copy the script to another resource... meaning if you want all 5 plates replaced, that's 5 resource files. 
-
-Perhaps this was just exclusive to me or just a few people, but otherwise, this is the only way of doing this.. *or at least to my knowledge*
-
-If anyone finds or has found a workout to this, please let us know so I can update the post
-(credit provided of course)
-
-**What Doesn't Work**
-*for me...*
-
-- Copy and pasted the code in the same `plate.lua` file (doesn't work)
-- Creating 5 separate client files in the same resource (also doesn't work)
-
-**I will continue to work on this and try to find a more efficient way of doing this.**
