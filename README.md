@@ -20,6 +20,16 @@ It's pretty simple
 4. Get the raw image file URL (URL should end with a `.png`)
 5. Paste your URL into the `plates.lua`
 
+Plates significations
+=
+
+Plate 1 = Plate Blue on White 2
+Plate 2 = Plate Yellow on Black
+Plate 3 = Plate Yellow on Blue
+Plate 4 = Plate Blue on White 1
+Plate 5 = Plate Blue on White 3 (SA EXEMPT)
+Plate 6 = North Yankton
+
 Possibly Important Stuff
 =
 
